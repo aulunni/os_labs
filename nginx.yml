@@ -1,9 +1,0 @@
-- name: Nginx
-  hosts: webservers
-  roles:
-    - webs
-
-- name: Nginx
-  hosts: balance
-  roles:
-    - secondary_roles
