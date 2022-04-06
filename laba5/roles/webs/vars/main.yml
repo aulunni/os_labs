@@ -1,0 +1,3 @@
+#var file for webs
+---
+nginx_listen_port: 8080
