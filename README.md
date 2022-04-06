@@ -73,6 +73,7 @@ vagrant halt haproxy1/2
 
 <a href="https://ibb.co/yF6nqSw"><img src="https://i.ibb.co/9Hb9WtF/photo5364279544590220503.jpg" alt="photo5364279544590220503" border="0"></a>
 
+
 # Кастомные странички
 
 *Чтоб закастомить: меняйте текст в html. А то че как не родные, у всех CentOS описан. PS Русский язык не работает*
