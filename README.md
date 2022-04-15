@@ -10,7 +10,11 @@
 
 [Лаба нумеро 5](https://github.com/aulunni/os_labs/tree/laba5)
 
+[Лаба нумеро 6](https://github.com/aulunni/os_labs/tree/laba6)
+
 [Лаба нумеро 7](https://github.com/aulunni/os_labs/tree/laba7)
+
+[Лаба нумеро 8](https://github.com/aulunni/os_labs/tree/laba8)
 
 ## Мем
 
