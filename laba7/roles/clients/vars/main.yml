@@ -1,5 +1,0 @@
----
-# vars file for client
-listen_port: 8080
-postgresql_connect_port: 5432
-connect_port: 8008
