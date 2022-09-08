@@ -8,6 +8,8 @@
 
 [Лаба 1... Или классная работа на первой-второй парах](https://github.com/aulunni/os_labs/tree/kurs2_classno)
 
+[Больше лаб для Бога лаб, она же лаба 2](https://github.com/aulunni/os_labs/blob/kurs2_l2/README.md)
+
 ## Ссылки на ветки первого курса второго семестра
 
 [Лаба нумеро 4](https://github.com/aulunni/os_labs/tree/laba4)
